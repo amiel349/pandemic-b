@@ -26,7 +26,6 @@ namespace pandemic
         Jakarta,
         Johannesburg,
         Karachi,
-        KePasio,
         Khartoum,
         Kinshasa,
         Kolkata,
