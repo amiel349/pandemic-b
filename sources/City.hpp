@@ -8,6 +8,8 @@ namespace pandemic
 {
     enum City
     {
+        
+        
         Algiers,
         Atlanta,
         Baghdad,
